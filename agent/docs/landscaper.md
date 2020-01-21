@@ -14,6 +14,16 @@ Please see above referred document for examples
 
 Check the landscaper log located in the logs.
 
+## CHANGELOG
+
+### Version 0.6.15
+
+### 21.01.2020
+
+#### Changed
+
+ - Fixed race condition on makedir for log managment logic
+
 ### Version 0.6.14
 
 ### 26.09.2019
@@ -26,7 +36,6 @@ Check the landscaper log located in the logs.
 
  - None
 
-## CHANGELOG
 
 ### Version 0.6.13
 

@@ -532,7 +532,7 @@ services:
     logging: *logging_params
 
   web:
-    image: mf2c/landscaper:0.6.14
+    image: mf2c/trunk:landscaper-0.6.15
     environment:
     - PYTHONPATH=/landscaper
     volumes:
